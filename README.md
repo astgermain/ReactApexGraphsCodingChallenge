@@ -1,2 +1,0 @@
-# ReactApexGraphsCodingChallenge
-Created with CodeSandbox
